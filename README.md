@@ -14,3 +14,5 @@ In this repository you can find the .step and .f3d files and also the HOLLY Comm
 Enjoy:)
 
 The robotic arm is still in development and major improvments are yet to be implomented. Stay tuned for updates, if intrested on making the project yourself feel free to contact me at george.i.kyriazopoulos@gmail.com
+
+<img width="889" height="805" alt="Screenshot_63" src="https://github.com/user-attachments/assets/234dcc4b-d8c2-4c0a-b939-2f385b7e9b6b" />
