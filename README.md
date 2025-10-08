@@ -5,6 +5,7 @@
 
 
 An open source stepper motor driven robotic arm
+https://www.youtube.com/watch?v=Zvw-hhXFHig
 
 This is a project i have been developing for the last 2 years. This projects purpose is to make an open source mostly 3d prinetd robottic arm that utilizes off the self 3d printed components and electronics in order to keep the cost at a minimum while achievenig percission.
 This projects hardware and software are both work in progress and alot of stuff needs to be improved before an official assembly instructables will be released.
