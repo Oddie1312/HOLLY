@@ -16,4 +16,4 @@ Enjoy:)
 
 The robotic arm is still in development and major improvments are yet to be implomented. Stay tuned for updates, if intrested on making the project yourself feel free to contact me at george.i.kyriazopoulos@gmail.com
 
-<img width="889" height="805" alt="Screenshot_63" src="https://github.com/user-attachments/assets/234dcc4b-d8c2-4c0a-b939-2f385b7e9b6b" />
+![DSC09776](https://github.com/user-attachments/assets/e8aca426-b093-4a06-ad2d-3679066adf78)
